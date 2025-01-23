@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+crud/node_modules/
+client/node_modules/
+server/node_modules/
+npm-debug.log*
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+
+# Build files
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
