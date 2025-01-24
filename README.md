@@ -22,3 +22,16 @@ A simple CRUD (Create, Read, Update, Delete) application built using the MERN st
 
 ---
 
+## Demonstrations
+### User List
+![image](https://github.com/user-attachments/assets/b3561c5b-b460-4cc6-8482-3143c6bed1fa)
+
+### Add New User
+![image](https://github.com/user-attachments/assets/23152f6f-46b8-4286-912e-5891bccd2a94)
+
+### Update User 
+![image](https://github.com/user-attachments/assets/76e44a7a-fe32-4b36-b03d-bf9aeda39c1d)
+
+### Run
+![image](https://github.com/user-attachments/assets/b7e61edf-dd54-4f06-b819-2a99c7ef1aca)
+
